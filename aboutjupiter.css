@@ -1,0 +1,45 @@
+body{
+    background: linear-gradient(white,orange,red);
+}
+#img1{
+    border-radius: 10px;
+}
+#img1:hover{
+    box-shadow: 15px 15px 15px rgba(0,0 ,0 ,0.4);
+    transform: scale(1.05);
+    transition: 0.5s;
+}
+iframe{
+    box-shadow: 15px 15px 15px rgba(0,0 ,0 ,0.4);
+    
+}
+#mail1:hover{
+color: orange;
+transition: 0.5s;
+}
+.nov{
+    margin: 0%;
+    padding: 0%;
+    list-style: none;
+    height: 36px;
+    line-height: 36px;
+    background-color: rgb(88, 252, 189);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+.nav{
+    float: left;
+    border-right: 1px solid #156ee2;
+
+}
+.sa{
+    display: block;
+    padding: 0 28px;
+    color: rgb(250, 28, 28);
+    text-decoration: none;
+
+}
+.nav:hover{
+    background-color: #156ee2;
+}
+/*Nav ,Organize  */ 
